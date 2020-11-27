@@ -132,7 +132,10 @@ p {
   border-radius: 100%;
   margin: 20px;
 }
+.testimonial-images{
+  width:100%;
 
+}
 
 #press {
   background-color: #800080;
